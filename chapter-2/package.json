@@ -1,0 +1,15 @@
+{
+  "name": "chapter-2",
+  "version": "1.0.0",
+  "description": "a project that tests typescript",
+  "scripts": {
+    "test": "node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "tslint": "^6.1.3",
+    "typescript": "^5.1.6"
+  }
+}
